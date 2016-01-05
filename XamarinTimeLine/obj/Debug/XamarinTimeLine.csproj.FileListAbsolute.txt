@@ -1,0 +1,17 @@
+E:\xamarin\TimeLine\XamarinTimeLine\bin\Debug\XamarinTimeLine.dll
+E:\xamarin\TimeLine\XamarinTimeLine\bin\Debug\XamarinTimeLine.pdb
+E:\xamarin\TimeLine\XamarinTimeLine\bin\Debug\XamarinTimeLine.XamarinTimeLine.apk
+E:\xamarin\TimeLine\XamarinTimeLine\bin\Debug\XamarinTimeLine.XamarinTimeLine-Signed.apk
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\XamarinTimeLine.csprojResolveAssemblyReference.cache
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\XamarinTimeLine.dll
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\XamarinTimeLine.pdb
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\android\bin\XamarinTimeLine.XamarinTimeLine.apk
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\res\values\strings.xml
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\res\drawable\marker.xml
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\res\values\attr.xml
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\R.cs.flag
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\uploadflags.txt
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\XamarinTimeLine.dll.mdb
+E:\xamarin\TimeLine\XamarinTimeLine\bin\Debug\XamarinTimeLine.dll.mdb
+E:\xamarin\TimeLine\XamarinTimeLine\obj\Debug\XamarinTimeLine.dll.mdb
+E:\xamarin\TimeLine\XamarinTimeLine\bin\Debug\XamarinTimeLine.dll.mdb

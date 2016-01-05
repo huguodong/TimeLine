@@ -1,0 +1,3 @@
+Values/Strings.xml;values/strings.xml
+drawable/marker.xml;drawable/marker.xml
+Values/attr.xml;values/attr.xml
