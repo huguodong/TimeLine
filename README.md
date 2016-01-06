@@ -8,4 +8,4 @@ Cardview时间节点式
 项目运行会报错，需重建项目引用该库
 [下载慢请戳这里](https://coding.net/u/huguodong/p/TimeLine/git)
 
-![demo](https://github.com/huguodong/TimeLine/raw/master/demo.png”)
+![demo](https://github.com/huguodong/TimeLine/blob/master/demo.png)
